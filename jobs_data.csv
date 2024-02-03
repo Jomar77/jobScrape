@@ -1,23 +1,157 @@
-Title,Company,Location
-Systems Engineer,Ryman Healthcare,Russley
-Mobile PC Technician and Consultant,Geeks on Wheels,Christchurch
-Infrastructure Engineer,Robert Walters,Christchurch
-Systems Engineer,Platinum Recruitment Limited,Christchurch
-Infrastructure Engineer,Crescent Consulting,Christchurch
-Desktop Engineer,Christchurch International Airport,Christchurch Central
-Business Systems Analyst,Te Whatu Ora - Waitaha Canterbury,Christchurch Central
-IT Support Technician,Lane Neave,Christchurch Central
-Application Support Analyst/Team Lead,Sourced | IT Recruitment Specialists,Christchurch
-ICT Support Analyst,ChristchurchNZ,Christchurch Central
-Systems Engineer,Ryman Healthcare,Russley
-Systems and Network Engineer,Sourced | IT Recruitment Specialists,Christchurch
-IT - Engineering Data Management - flexible work from home anywhere in NZ/AUS!,Matrix Applied Computing Ltd,Christchurch Central
-Infrastructure Engineer - Level 2,NZ Blood Service,Christchurch Central
-User Change Technician,The I.T. Team,Christchurch Central
-Cybersecurity Engineer,University of Canterbury,Christchurch Central
-IT support level 1 & 2,Peoplebank,Christchurch
-Helpdesk Support,Randstad - Business Support,Christchurch
-Graduate IT Systems Engineer,ElectroNet,Christchurch Central
-Junior DevOps / Cloud Applications Support Engineer (Azure),Sunstone Talent,Christchurch
-Data Analytics Engineer,Robert Walters,Christchurch
-Systems Engineer - RF Project,Tait International Ltd,Christchurch Central
+Title,Company,Location,Description
+Cloud Platforms & Infrastructure Transition Lead,Foodstuffs South Island Limited,Christchurch Central,Engineering - Network
+Support Technician (IT),First Focus IT P/L,Christchurch Central,Help Desk & IT Support
+Support Technician (IT),First Focus IT P/L,Christchurch Central,Help Desk & IT Support
+Level 1/2 ICT Support Engineer (Desktop & Network) - Christchurch,Green Light PS Pty Ltd,Christchurch,Help Desk & IT Support
+Infrastructure Engineer,Robert Walters,Christchurch,Networks & Systems Administration
+Systems Engineer,Platinum Recruitment Limited,Christchurch,Networks & Systems Administration
+Service Manager,Robert Walters,Christchurch,Management
+Infrastructure Engineer,Crescent Consulting,Christchurch,Networks & Systems Administration
+Desktop Engineer,Christchurch International Airport,Christchurch Central,Help Desk & IT Support
+Business Systems Analyst,Te Whatu Ora - Waitaha Canterbury,Christchurch Central,Business/Systems Analysts
+IT Support Technician,Lane Neave,Christchurch Central,Help Desk & IT Support
+Application Support Analyst/Team Lead,Sourced | IT Recruitment Specialists,Christchurch,Help Desk & IT Support
+ICT Support Analyst,ChristchurchNZ,Christchurch Central,Help Desk & IT Support
+Systems Engineer,Ryman Healthcare,Russley,Networks & Systems Administration
+Systems and Network Engineer,Sourced | IT Recruitment Specialists,Christchurch,Engineering - Network
+IT - Engineering Data Management - flexible work from home anywhere in NZ/AUS!,Matrix Applied Computing Ltd,Christchurch Central,Engineering - Software
+Infrastructure Engineer - Level 2,NZ Blood Service,Christchurch Central,Help Desk & IT Support
+User Change Technician,The I.T. Team,Christchurch Central,Help Desk & IT Support
+Cloud Platforms & Infrastructure Transition Lead,Foodstuffs South Island Limited,Christchurch Central,Engineering - Network
+BI Delivery Consultant,XO Recruitment,Christchurch Central,Business/Systems Analysts
+Cybersecurity Engineer,University of Canterbury,Christchurch Central,Security
+IT support level 1 & 2,Peoplebank,Christchurch,Help Desk & IT Support
+Experienced Change Manager | 6 month contract,PMO People,Christchurch Central,Programme & Project Management
+Systems Engineer,Ryman Healthcare,Russley,Networks & Systems Administration
+Helpdesk Support,Randstad - Business Support,Christchurch,Help Desk & IT Support
+Graduate IT Systems Engineer,ElectroNet,Christchurch Central,Networks & Systems Administration
+Junior DevOps / Cloud Applications Support Engineer (Azure),Sunstone Talent,Christchurch,Engineering - Software
+Web Game Developer,Ruby Play Net Ltd,Christchurch Central,Developers/Programmers
+Data Analytics Engineer,Robert Walters,Christchurch,Database Development & Administration
+Systems Engineer - RF Project,Tait International Ltd,Christchurch Central,Networks & Systems Administration
+Helpdesk Analyst,Crew Technology Recruitment,Russley,Help Desk & IT Support
+Application Analyst,Crew Technology Recruitment,Russley,Help Desk & IT Support
+Software Engineer - Identity,Absolute IT Limited,Christchurch,Developers/Programmers
+Site Reliability Engineer,Kiwibank,Christchurch Central,Developers/Programmers
+Technical Lead,Crew Technology Recruitment,Christchurch Central,Developers/Programmers
+Application Support Team Lead,Ryman Healthcare,Russley,Business/Systems Analysts
+Mobile PC Technician and Consultant,Geeks on Wheels,Christchurch,Help Desk & IT Support
+Customer Support and Training,Treshna Enterprises Ltd,Christchurch Central,Help Desk & IT Support
+Technical Business Analyst,Robert Walters,Christchurch,Business/Systems Analysts
+Software Developer,Crew Technology Recruitment,Christchurch Central,Developers/Programmers
+Application Analyst,Crew Technology Recruitment,Russley,Business/Systems Analysts
+Senior Azure Cloud Systems Engineers,Sunstone Talent,Christchurch,Networks & Systems Administration
+Azure Cloud Systems Engineer / Architect,Sunstone Talent,Christchurch,Networks & Systems Administration
+IT Support Engineer,Care Free Computing Ltd,Wigram,Help Desk & IT Support
+Mobile PC Technician and Consultant,Geeks on Wheels,Christchurch,Help Desk & IT Support
+Programme Coordinator | 12 mth contract,PMO People,Christchurch Central,Programme & Project Management
+ICT Systems Engineer,Tait International Ltd,Christchurch Central,Networks & Systems Administration
+Technical Consultant,Platinum Recruitment Limited,Christchurch Central,Consultants
+"Software Engineer / Full stack, back-end or front-end",OmniEye Operations Limited,Christchurch Central,Developers/Programmers
+Technical Support Specialist,Adecco IT,Christchurch,Telecommunications
+Technical Operations Centre - Technical Specialist (Multiple Opportunities),Airways NZ Ltd,Burnside,Telecommunications
+Field Engineer - Telecommunications,Kordia,Christchurch Central,Telecommunications
+IST Support Analyst,Sourced | IT Recruitment Specialists,Christchurch,Help Desk & IT Support
+Full Stack Support Developer,Capgemini Australia Pty Ltd,Christchurch Central,Developers/Programmers
+Service Desk Analyst,Hays | Technology,Christchurch,Help Desk & IT Support
+Senior Engineer,Datacom,Christchurch Central,Engineering - Software
+Senior Systems Administrator,Crew Technology Recruitment,Christchurch,Networks & Systems Administration
+Data Analyst,Platinum Recruitment Limited,Christchurch,Business/Systems Analysts
+Programme Coordinator,Crew Technology Recruitment,Christchurch Central,Programme & Project Management
+Principal Software Engineer,Microsoft,Christchurch Central,Engineering - Software
+Software Engineer,Advisoft Limited,Christchurch Central,Engineering - Software
+Software Developer - Dunedin,XO Recruitment,Christchurch Central,Developers/Programmers
+Software Developer,Crew Technology Recruitment,Christchurch Central,Engineering - Software
+Trading Support Engineer,Sourced | IT Recruitment Specialists,Christchurch Central,Help Desk & IT Support
+Project Director/Programme Manager,Sourced | IT Recruitment Specialists,Christchurch Central,Programme & Project Management
+Information Designer,Airways NZ Ltd,Burnside,Technical Writing
+Senior Cloud Infrastructure Consultant - Azure,Theta,Christchurch Central,Consultants
+Technical Writer / Communicator,Wyma Engineering (NZ) Ltd,Christchurch Central,Technical Writing
+Process Implementation Lead,Farmlands Co-operative,Burnside,Programme & Project Management
+Business Analyst - Integrated Asset Management,Orion NZ Ltd,Christchurch Central,Business/Systems Analysts
+Sales Lead,Urban Intelligence,Christchurch Central,Sales - Pre & Post
+Modern Workplace Engineer,Cyclone,Christchurch Central,Engineering - Software
+Technical Business Analyst (Fixed Term Contract),Sourced | IT Recruitment Specialists,Christchurch,Business/Systems Analysts
+Senior Functional Analyst - ISU,Christchurch City Council,Christchurch Central,Business/Systems Analysts
+Senior SRE - Observability,Kiwibank,Christchurch Central,Developers/Programmers
+Senior Functional Analyst - Assets,Christchurch City Council,Christchurch Central,Business/Systems Analysts
+Software Technical Writer (Compliance & Documentation),Sunstone Talent,Christchurch,Technical Writing
+Senior Software Engineer - BI,Christchurch City Council,Christchurch Central,Business/Systems Analysts
+Software Engineer,Forbury,Christchurch Central,Engineering - Software
+Technical Writer / Communicator,Wyma Engineering (NZ) Ltd,Christchurch Central,Technical Writing
+Programme Coordinator | 12 mth contract,PMO People,Christchurch Central,Programme & Project Management
+Technical Support Analyst,Windcave Limited,Christchurch Central,Help Desk & IT Support
+Business Intelligence Analyst,TSB,Christchurch Central,Business/Systems Analysts
+Senior Software Engineer,ELMO Software Limited,Christchurch Central,Engineering - Software
+Data and Insights Partner,Royal New Zealand Plunket Trust,Christchurch Central,Database Development & Administration
+.NET Developer,Crew Technology Recruitment,Christchurch,Engineering - Software
+Application Specialist,scOPe Solutions Ltd,Christchurch Central,Consultants
+Geospatial Technical Lead,Environment Canterbury,Christchurch Central,Business/Systems Analysts
+Lead/Principal Microsoft D365 Business Central Techno-Functional Specialist,Theta,Christchurch Central,Consultants
+Data Analyst - Contract,Sourced | IT Recruitment Specialists,Christchurch,Database Development & Administration
+Service Desk Engineer,Cyclone,Christchurch Central,Help Desk & IT Support
+Full Stack Software Developer,CodeMatch NZ,Christchurch Central,Developers/Programmers
+Business Improvement Analyst,Crew Technology Recruitment,Russley,Business/Systems Analysts
+2 x Intermediate full stack software engineers (SaaS),Sunstone Talent,Christchurch Central,Engineering - Software
+Change Manager (Contract),Sourced | IT Recruitment Specialists,Christchurch Central,Programme & Project Management
+Data Architect,Robert Walters,Christchurch,Architects
+Software Engineering Manager,Ruby Play Net Ltd,Christchurch Central,Management
+Technical Manager - Game Development Studio,CerebralFix,Christchurch Central,Management
+Service Manager,Information leadership,Christchurch Central,Programme & Project Management
+Data Engineer,Robert Walters,Christchurch,Database Development & Administration
+Senior Engineer (FTC),Sourced | IT Recruitment Specialists,Christchurch Central,Engineering - Hardware
+Data Engineer,Crew Technology Recruitment,Christchurch,Other
+Senior .Net Software Engineers,Entelect Software,Christchurch Central,Engineering - Software
+Project Manager,Platinum Recruitment Limited,Christchurch Central,Programme & Project Management
+Business Analyst/Project Manager,EstarOnline Ltd,Christchurch Central,Programme & Project Management
+Experienced Change Manager | 6 month contract,PMO People,Christchurch Central,Programme & Project Management
+Applications Specialist (Construction / Survey / Test Engineering),Trimble,Christchurch Central,Testing & Quality Assurance
+Senior Software Engineer - App Development,Seequent,Christchurch,Engineering - Software
+Data Engineering Manager,Fosterra Consulting Group,Christchurch,Team Leaders
+Service Desk Analyst,KMD Brands (NZ),Christchurch Central,Help Desk & IT Support
+Architect,Hays | Technology,Christchurch,Architects
+Knowledge Management Technical Lead,Crescent Consulting,Christchurch Central,Consultants
+Senior Business Analyst,Platinum Recruitment Limited,Christchurch Central,Business/Systems Analysts
+Senior Network Engineer (Team Lead),Crew Technology Recruitment,Papanui,Engineering - Network
+Senior Data Engineer,Crew Technology Recruitment,Christchurch Central,Database Development & Administration
+C# Full Stack Developer,Crescent Consulting,Christchurch,Developers/Programmers
+Senior Business Analyst (Contract),Sourced | IT Recruitment Specialists,Christchurch Central,Business/Systems Analysts
+System Engineer,Crescent Consulting,Christchurch Central,Networks & Systems Administration
+Lead Software Engineer - Central,Seequent,Christchurch Central,Engineering - Software
+Senior Business Analyst,Crew Technology Recruitment,Christchurch Central,Business/Systems Analysts
+Service Development Analyst,NOW New Zealand Limited,Christchurch Central,Business/Systems Analysts
+Business Analyst (Web / eCommerce),Sunstone Talent,Christchurch,Business/Systems Analysts
+Lead Software Engineer - BlockSync,Seequent,Christchurch Central,Engineering - Software
+Mid - Senior Software Engineer,stanbury electrical engineering,Hei Hei,Engineering - Software
+Customer Engagement Coordinator,Hail,Christchurch Central,Sales - Pre & Post
+Senior Network Engineer / Team Leader,Sourced | IT Recruitment Specialists,Christchurch,Engineering - Network
+Lotus Specialist - contract or permanent,Sourced | IT Recruitment Specialists,Christchurch Central,Engineering - Software
+Senior .Net Developer,Crew Technology Recruitment,Christchurch Central,Developers/Programmers
+4 x Full Stack C#.Net Web Developers,Sunstone Talent,Christchurch Central,Web Development & Production
+Senior Software Engineer (C# Banking and Finance),FIS,Christchurch Central,Developers/Programmers
+Senior Data Solutions Specialist,Locus Limited,Christchurch Central,Consultants
+Test Analyst,Crew Technology Recruitment,Christchurch Central,Testing & Quality Assurance
+Project Manager Senior-Technology,FIS,Christchurch Central,Programme & Project Management
+Software Engineer - contract in Christchurch,CodeMatch NZ,Christchurch Central,Developers/Programmers
+Mobile Developer,Crew Technology Recruitment,Christchurch Central,Developers/Programmers
+Senior / Lead Full Stack Developer,Sunstone Talent,Christchurch,Developers/Programmers
+"Senior Software Developer, Front End, Imago Web App Team",Seequent,Christchurch Central,Engineering - Software
+Pricing Specialist - Pursuit (6 Months Fixed-Term),Datacom,Christchurch Central,Other
+Intermediate Full Stack C#.Net Developer,Sunstone Talent,Christchurch,Engineering - Software
+Lead DevOps Engineer - Christchurch,iPayroll Group,Christchurch Central,Engineering - Software
+Senior Cloud Infrastructure Consultant - Azure,Theta,Christchurch Central,Consultants
+Software Developer - Jade Experience Preferred,StaffSync Limited,Christchurch Central,Developers/Programmers
+Senior Full Stack PHP Developer,Carbn Group Holdings Limited,Christchurch Central,Developers/Programmers
+Senior Dynamics Specialist,Kiwibank,Christchurch Central,Consultants
+4 x Senior Full Stack C#.Net Web Developers,Sunstone Talent,Christchurch Central,Web Development & Production
+Senior Site Reliability Engineer - nCino/Salesforce,Kiwibank,Christchurch Central,Developers/Programmers
+Lead JAVA Engineer - Health Solutions,Crescent Consulting,Christchurch Central,Developers/Programmers
+Full Stack C#.Net Web Developer,Sunstone Talent,Christchurch Central,Web Development & Production
+Full Stack .Net Developer,Platinum Recruitment Limited,Christchurch Central,Engineering - Software
+Software Product Owner / Business Analyst (Agile),Sunstone Talent,Christchurch,Business/Systems Analysts
+Senior Front End Developer,MyRaceLab Ltd,Christchurch Central,Developers/Programmers
+Senior Full Stack C#.Net Developer,Sunstone Talent,Christchurch,Engineering - Software
+Lead/Principal Microsoft D365 Business Central Techno-Functional Specialist,Theta,Christchurch Central,Consultants
+UI/UX Product Designer (SaaS),Sunstone Talent,Christchurch Central,Web Development & Production
+Senior .Net Web Developer,Sourced | IT Recruitment Specialists,Christchurch Central,Developers/Programmers
+Mobile Test Engineer,Basis NZ Limited,Sydenham,Testing & Quality Assurance

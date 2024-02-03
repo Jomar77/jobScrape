@@ -25,29 +25,33 @@ def scrape_jobs(url):
             title = job.find('a', {'data-automation': 'jobTitle'}).text
             company = job.find('a', {'data-automation': 'jobCompany'}).text
             location = job.find('a', {'data-automation': 'jobLocation'}).text
-            job_list.append((title, company, location))
+            description = job.find('a', {'data-automation': 'jobSubClassification'}).text
+            job_list.append((title,company, location, description))
 
         return job_list
 
 # URL of the page you want to scrape
-url = "https://www.seek.co.nz/jobs-in-information-communication-technology/in-Christchurch-Canterbury"
-
+url = "https://www.seek.co.nz/jobs-in-information-communication-technology/in-Christchurch-Canterbury?page={number}"
 # Call the function and print the jobs
-jobs = scrape_jobs(url)
+pages = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+all_jobs = []
+for page in pages:
+    jobs = scrape_jobs(url.format(number=page))
+    all_jobs.extend(jobs)
 
 
 # Specify the CSV file name
 csv_file = "jobs_data.csv"
 
 # Write the data to the CSV file
-with open(csv_file, 'w', newline='', encoding='utf-8') as file:
+with open(csv_file, 'a', newline='', encoding='utf-8') as file:
     # Create a CSV writer object
     writer = csv.writer(file)
 
     # Write the header
-    writer.writerow(['Title', 'Company', 'Location'])
+    writer.writerow(['Title', 'Company', 'Location', 'Description'])
 
     # Write the job details
-    writer.writerows(jobs)
+    writer.writerows(all_jobs)
 
 print(f"Data has been written to {csv_file}")
