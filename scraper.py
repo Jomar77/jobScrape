@@ -28,13 +28,13 @@ def scrape_jobs(url):
             subclass = job.find('a', {'data-automation': 'jobSubClassification'}).text
             description = job.find('span', {'data-automation': 'jobShortDescription'}).text
             
-            # job_desc_list = []  
-            # job_desc = soup.find_all('li')
-            # for desc in job_desc:
-            #     desc = job_desc.find_all('li').text
-            #     job_desc_list.append(desc)        
+            job_desc_list = []  
+            job_desc = soup.find_all('li')
+            for desc in job_desc:
+                desc_li = desc.text
+                job_desc_list.append(desc_li)        
             
-            job_list.append((title,company, location, subclass, description))
+            job_list.append((title,company, location, subclass, description,job_desc_list))
 
         return job_list
 
