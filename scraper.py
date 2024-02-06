@@ -25,8 +25,16 @@ def scrape_jobs(url):
             title = job.find('a', {'data-automation': 'jobTitle'}).text
             company = job.find('a', {'data-automation': 'jobCompany'}).text
             location = job.find('a', {'data-automation': 'jobLocation'}).text
-            description = job.find('a', {'data-automation': 'jobSubClassification'}).text
-            job_list.append((title,company, location, description))
+            subclass = job.find('a', {'data-automation': 'jobSubClassification'}).text
+            description = job.find('span', {'data-automation': 'jobShortDescription'}).text
+            
+            job_desc_list = []
+            job_desc = soup.find_all('li')
+            for desc in job_desc:
+                desc = desc.find_all('li').text
+                job_desc_list.append(desc)
+            
+            job_list.append((title,company, location, subclass, description))
 
         return job_list
 
