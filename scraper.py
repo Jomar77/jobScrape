@@ -32,7 +32,7 @@ def scrape_jobs(url):
             job_desc = soup.find_all('li')
             for desc in job_desc:
                 desc = desc.find_all('li').text
-                job_desc_list.append(desc)
+                job_desc_list.append(desc)      
             
             job_list.append((title,company, location, subclass, description))
 
